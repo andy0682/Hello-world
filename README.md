@@ -1,2 +1,2 @@
 # Hello-world!
-Just a brief presentation of myself
+Brief description of myself and my repos
