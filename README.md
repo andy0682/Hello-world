@@ -6,4 +6,4 @@ However, it will be soon replaced by a GitHub personal Web Page.
 For the moment, there are only two repos in development:
 
 * gazerR: This repo contains the code for an R package I am developping.
-* test_notebook: This is a jupyther notebook that shows how to use the Google BigQuery API.
+* test_notebook: This is a Jupyther notebook (BQconnect.ipynb) showing how to use the Google BigQuery API with Python.
