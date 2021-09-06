@@ -1,4 +1,4 @@
-# Hello, and thank you for visiting my Github 
+# Hello and thank you for visiting my Github 
 
 This README.md file was meant to be a quick introduction of myself and my repos.
 However, it will be soon replaced by a GitHub personal Web Page.
