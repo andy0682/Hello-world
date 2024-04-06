@@ -1,10 +1,17 @@
 # Hello and thank you for visiting my Github 
 
-This README.md file was meant to be a quick introduction of myself and my repos.
-However, it will be soon replaced by a GitHub personal Web Page.
+This README.md file is a quick introduction to my repos.
 
-For the moment, there are only two repos in development: 
-
-* gazerR: This repo contains the code for an R package I am developping.
-* gazeR-demo: A short Jupyther Notebook (gazeR_demo.ipynb) showing how to use the gazer Package.
-* test_notebook: This is a Jupyther notebook (BQconnect.ipynb) showing how to use the Google BigQuery API with Python.
+1. [gazerR](https://github.com/andy0682/gazeR)
+  * This repo shows how to develop a R-Package with DevOps best practices
+  * First I created, as an example, a Package that clusters sensor data (eye-tracking recordings) with a Density-Base Clustering algorithm.
+  * The R-Package documentation (Vignets) was created with the [roxygen2](https://roxygen2.r-lib.org) library. 
+  * Unit Testing was implemented with the [testthat](https://testthat.r-lib.org) library 
+  * CI/CD was implemented with [Travis](https://www.travis-ci.com)
+  * During the whole implementation process the [devtools](https://devtools.r-lib.org) and [usethis](https://usethis.r-lib.org) libraries
+    
+2. [GazeR-demo](https://github.com/andy0682/GazeR-demo)
+  *  This repo shows how to use the gazeR Package
+     
+3. [test_notebook](https://github.com/andy0682/test_notebook)
+  * This is a [Jupyther notebook](https://github.com/andy0682/test_notebook/blob/main/BQconnect.ipynb) showing how to use the Google BigQuery API with Python.
