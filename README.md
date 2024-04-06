@@ -1,4 +1,4 @@
-# Hello and thank you for visiting my Github 
+# Hello and thank you for visiting my GitHub 
 
 This README.md file is a quick introduction to my repos.
 
